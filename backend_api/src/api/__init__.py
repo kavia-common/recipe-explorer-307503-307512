@@ -1,0 +1,1 @@
+"""Recipe Explorer FastAPI package."""
